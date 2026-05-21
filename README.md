@@ -10,7 +10,7 @@ The goal is to build strong practical experience and prepare professional traini
 - Prepare structured training material for university students and engineers.
 
 ## 📁 Repository Structure
-- Each video has its own folder containing:
+- Each  folder contain:
   - CubeMX + IDE project
   - Notes (Markdown)
   - Circuit diagram or simulation (Protuse - real projects)
